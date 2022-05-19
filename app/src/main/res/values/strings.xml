@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pila Ruta</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">Usuario Invalido </string>
+    <string name="error_invalid_password">Clave Invalida</string>
+    <string name="error_incorrect_password">clave Incorrecta</string>
+    <string name="error_field_required">campo Obligatorio</string>
+    <string name="permission_rationale">"Se necesitan permisos de contactos para proporcionar correo electrónico."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Es tu Solucion</string>
+    <string name="nav_header_subtitle">john.martinez.estusolucion@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ubicacion_actual">Seguimiento Ruta</string>
+    <string name="title_activity_ruta_monitoras">Mapa Monitoras</string>
+    <string name="title_activity_ruta_estudiantes">Mapa Estudiantes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

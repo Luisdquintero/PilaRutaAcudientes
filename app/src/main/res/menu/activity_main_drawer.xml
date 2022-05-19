@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home_page"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/estudiantes_page"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Pasajeros" />
+        <item
+            android:id="@+id/Monitores_page"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Conductores" />
+        <item
+            android:id="@+id/Ubiacion_page"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Ubicacion Actual" />
+        <item
+            android:id="@+id/salir"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Salir" />
+    </group>
+
+
+
+</menu>
